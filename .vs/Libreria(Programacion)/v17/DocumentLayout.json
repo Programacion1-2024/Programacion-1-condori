@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|c:\\users\\usuario\\documents\\github\\programacion-1-condori\\centidades\\metodos\\crudlibropedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\metodos\\crudlibropedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\copialibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\copialibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|c:\\users\\usuario\\documents\\github\\programacion-1-condori\\centidades\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\autorlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\autorlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\generolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\generolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\cdatos\\contexts\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|solutionrelative:cdatos\\contexts\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\centidades\\entidades\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9BE40D-D551-415B-9ED0-91324428D535}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\cdatos\\migrations\\20240703154510_db update, corecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|solutionrelative:cdatos\\migrations\\20240703154510_db update, corecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703153605_DB update, coreccion de entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|solutionrelative:CDatos\\Migrations\\20240703153605_DB update, coreccion de entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703153313_DB update, agregacion de mas entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|solutionrelative:CDatos\\Migrations\\20240703153313_DB update, agregacion de mas entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703224955_Coreccion de LibreriaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|solutionrelative:CDatos\\Migrations\\20240703224955_Coreccion de LibreriaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703223959_Corecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40155D8C-3757-499A-826A-140D8BB629F4}|CDatos\\CDatos.csproj|solutionrelative:CDatos\\Migrations\\20240703223959_Corecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUDLibroPedido.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Metodos\\CRUDLibroPedido.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Metodos\\CRUDLibroPedido.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Metodos\\CRUDLibroPedido.cs",
+              "RelativeToolTip": "CEntidades\\Metodos\\CRUDLibroPedido.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:21:16.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Venta.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Venta.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Venta.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Venta.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAOAtwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:08:55.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:21:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Prestamo.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Prestamo.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Prestamo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:08:58.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Persona.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Persona.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:13:38.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Empleado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:34:16.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CopiaLibro.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\CopiaLibro.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\CopiaLibro.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\CopiaLibro.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\CopiaLibro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:08:42.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Libro.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Libro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:13:43.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorLibro.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\AutorLibro.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\AutorLibro.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\AutorLibro.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\AutorLibro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:12:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Autor.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Autor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:21:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GeneroLibro.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\GeneroLibro.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\GeneroLibro.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\GeneroLibro.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\GeneroLibro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:10:43.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Contexts\\LibreriaContext.cs",
+              "RelativeDocumentMoniker": "CDatos\\Contexts\\LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Contexts\\LibreriaContext.cs",
+              "RelativeToolTip": "CDatos\\Contexts\\LibreriaContext.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAASwIgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:41:59.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Genero.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Genero.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Genero.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Genero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:15:48.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Editorial.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Editorial.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\Editorial.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Editorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:52:21.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormaDePago.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\FormaDePago.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\FormaDePago.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CEntidades\\Entidades\\FormaDePago.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\FormaDePago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:15:49.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240703224955_Coreccion de LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703224955_Coreccion de LibreriaContext.cs",
+              "RelativeDocumentMoniker": "CDatos\\Migrations\\20240703224955_Coreccion de LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703224955_Coreccion de LibreriaContext.cs",
+              "RelativeToolTip": "CDatos\\Migrations\\20240703224955_Coreccion de LibreriaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:49:55.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240703223959_Corecciones.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703223959_Corecciones.cs",
+              "RelativeDocumentMoniker": "CDatos\\Migrations\\20240703223959_Corecciones.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703223959_Corecciones.cs",
+              "RelativeToolTip": "CDatos\\Migrations\\20240703223959_Corecciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:39:59.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240703154510_DB update, corecciones.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703154510_DB update, corecciones.cs",
+              "RelativeDocumentMoniker": "CDatos\\Migrations\\20240703154510_DB update, corecciones.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703154510_DB update, corecciones.cs",
+              "RelativeToolTip": "CDatos\\Migrations\\20240703154510_DB update, corecciones.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:45:10.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240703153605_DB update, coreccion de entidades.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703153605_DB update, coreccion de entidades.cs",
+              "RelativeDocumentMoniker": "CDatos\\Migrations\\20240703153605_DB update, coreccion de entidades.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703153605_DB update, coreccion de entidades.cs",
+              "RelativeToolTip": "CDatos\\Migrations\\20240703153605_DB update, coreccion de entidades.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:36:05.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240703153313_DB update, agregacion de mas entidades.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703153313_DB update, agregacion de mas entidades.cs",
+              "RelativeDocumentMoniker": "CDatos\\Migrations\\20240703153313_DB update, agregacion de mas entidades.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\CDatos\\Migrations\\20240703153313_DB update, agregacion de mas entidades.cs",
+              "RelativeToolTip": "CDatos\\Migrations\\20240703153313_DB update, agregacion de mas entidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:33:14.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
