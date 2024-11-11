@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC8AE10-B177-4217-AA7D-E86A3D4A7DA1}|CPresentacion\\CPresentacion.csproj|c:\\users\\juan bergonzi\\documents\\github\\programacion-i-bergonzijuan\\ej.parcial\\cpresentacion\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC8AE10-B177-4217-AA7D-E86A3D4A7DA1}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CED12E-9301-45AF-8E04-DA8C769C31AB}|CEntidades\\CEntidades.csproj|c:\\users\\juan bergonzi\\documents\\github\\programacion-i-bergonzijuan\\ej.parcial\\centidades\\entitis\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CED12E-9301-45AF-8E04-DA8C769C31AB}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entitis\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC8AE10-B177-4217-AA7D-E86A3D4A7DA1}|CPresentacion\\CPresentacion.csproj|c:\\users\\juan bergonzi\\documents\\github\\programacion-i-bergonzijuan\\ej.parcial\\cpresentacion\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FC8AE10-B177-4217-AA7D-E86A3D4A7DA1}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC8AE10-B177-4217-AA7D-E86A3D4A7DA1}|CPresentacion\\CPresentacion.csproj|c:\\users\\juan bergonzi\\documents\\github\\programacion-i-bergonzijuan\\ej.parcial\\cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC8AE10-B177-4217-AA7D-E86A3D4A7DA1}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\CEntidades\\Entitis\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entitis\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\CEntidades\\Entitis\\CuentaBancaria.cs",
+              "RelativeToolTip": "CEntidades\\Entitis\\CuentaBancaria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:02:52.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\CPresentacion\\Cuenta.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\CPresentacion\\Cuenta.cs",
+              "RelativeToolTip": "CPresentacion\\Cuenta.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:40:11.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\CPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\CPresentacion\\Form1.cs",
+              "RelativeToolTip": "CPresentacion\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA0wIYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:26:42.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\CPresentacion\\Cuenta.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Juan Bergonzi\\Documents\\GitHub\\Programacion-I-BergonziJuan\\Ej.Parcial\\CPresentacion\\Cuenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CPresentacion\\Cuenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:26:37.353Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

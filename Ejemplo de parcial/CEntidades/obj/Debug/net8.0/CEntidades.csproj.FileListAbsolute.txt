@@ -1,0 +1,40 @@
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.sourcelink.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.deps.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\refint\CEntidades.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\ref\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.deps.json
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.sourcelink.json
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\refint\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CEntidades\obj\Debug\net8.0\ref\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.deps.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.sourcelink.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\refint\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\CEntidades.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CEntidades\obj\Debug\net8.0\ref\CEntidades.dll

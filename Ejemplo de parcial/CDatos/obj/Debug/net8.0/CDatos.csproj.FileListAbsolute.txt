@@ -1,0 +1,59 @@
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.AssemblyReference.cache
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.AssemblyReference.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.sourcelink.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.deps.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.runtimeconfig.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CEntidades.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.Up2Date
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\refint\CDatos.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.genruntimeconfig.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\ref\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.deps.json
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.sourcelink.json
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.Up2Date
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\refint\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.genruntimeconfig.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CDatos\obj\Debug\net8.0\ref\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.deps.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\bin\Debug\net8.0\CDatos.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\bin\Debug\net8.0\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.sourcelink.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.csproj.Up2Date
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\refint\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\CDatos.genruntimeconfig.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CDatos\obj\Debug\net8.0\ref\CDatos.dll

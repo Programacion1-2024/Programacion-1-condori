@@ -32,11 +32,11 @@
             btnEmpleado = new Button();
             btnCliente = new Button();
             panel1 = new Panel();
+            button2 = new Button();
+            label1 = new Label();
             button1 = new Button();
             textBox1 = new TextBox();
             dgvListadoAutores = new DataGridView();
-            label1 = new Label();
-            button2 = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvListadoAutores).BeginInit();
             SuspendLayout();
@@ -90,6 +90,26 @@
             panel1.Size = new Size(799, 87);
             panel1.TabIndex = 24;
             // 
+            // button2
+            // 
+            button2.Font = new Font("Forte", 9.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button2.Location = new Point(508, 61);
+            button2.Name = "button2";
+            button2.Size = new Size(127, 26);
+            button2.TabIndex = 27;
+            button2.Text = "Novedades";
+            button2.UseVisualStyleBackColor = true;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Snap ITC", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.Location = new Point(11, 11);
+            label1.Name = "label1";
+            label1.Size = new Size(135, 25);
+            label1.TabIndex = 26;
+            label1.Text = "Book Store";
+            // 
             // button1
             // 
             button1.BackColor = SystemColors.ControlLightLight;
@@ -120,26 +140,6 @@
             dgvListadoAutores.Name = "dgvListadoAutores";
             dgvListadoAutores.Size = new Size(584, 231);
             dgvListadoAutores.TabIndex = 25;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Snap ITC", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(11, 11);
-            label1.Name = "label1";
-            label1.Size = new Size(135, 25);
-            label1.TabIndex = 26;
-            label1.Text = "Book Store";
-            // 
-            // button2
-            // 
-            button2.Font = new Font("Forte", 9.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            button2.Location = new Point(508, 61);
-            button2.Name = "button2";
-            button2.Size = new Size(127, 26);
-            button2.TabIndex = 27;
-            button2.Text = "Novedades";
-            button2.UseVisualStyleBackColor = true;
             // 
             // Menu
             // 

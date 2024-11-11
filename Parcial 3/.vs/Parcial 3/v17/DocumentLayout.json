@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7EA232-C75A-4796-B2CE-A7ADEA2E4298}|LOGICA\\LOGICA.csproj|c:\\users\\usuario\\documents\\github\\programacion-1-condori\\parcial 3\\logica\\implementions\\productologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7EA232-C75A-4796-B2CE-A7ADEA2E4298}|LOGICA\\LOGICA.csproj|solutionrelative:logica\\implementions\\productologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7EA232-C75A-4796-B2CE-A7ADEA2E4298}|LOGICA\\LOGICA.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\logica\\contracts\\iproductologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7EA232-C75A-4796-B2CE-A7ADEA2E4298}|LOGICA\\LOGICA.csproj|solutionrelative:logica\\contracts\\iproductologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E666A39-CAC8-45AA-B932-98738D49CA58}|Parcial 3\\Parcial 3.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\parcial 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E666A39-CAC8-45AA-B932-98738D49CA58}|Parcial 3\\Parcial 3.csproj|solutionrelative:parcial 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E666A39-CAC8-45AA-B932-98738D49CA58}|Parcial 3\\Parcial 3.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\parcial 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E666A39-CAC8-45AA-B932-98738D49CA58}|Parcial 3\\Parcial 3.csproj|solutionrelative:parcial 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\datos\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|solutionrelative:datos\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\datos\\repositorios\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|solutionrelative:datos\\repositorios\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\datos\\repositorios\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|solutionrelative:datos\\repositorios\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\Entities.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\Entities.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\ENTIDADES.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\ENTIDADES.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\Entities.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\entidades\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\Entities.csproj|solutionrelative:entidades\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E666A39-CAC8-45AA-B932-98738D49CA58}|Parcial 3\\Parcial 3.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\parcial 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E666A39-CAC8-45AA-B932-98738D49CA58}|Parcial 3\\Parcial 3.csproj|solutionrelative:parcial 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\datos\\repositorios\\contracts\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|solutionrelative:datos\\repositorios\\contracts\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\datos\\repositorios\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|solutionrelative:datos\\repositorios\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\Entities.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\entidades\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\Entities.csproj|solutionrelative:entidades\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\Entities.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\entidades\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2A34FE0-B200-4080-B60C-4A21D3278C5E}|ENTIDADES\\Entities.csproj|solutionrelative:entidades\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7EA232-C75A-4796-B2CE-A7ADEA2E4298}|LOGICA\\LOGICA.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\logica\\logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A7EA232-C75A-4796-B2CE-A7ADEA2E4298}|LOGICA\\LOGICA.csproj|solutionrelative:logica\\logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17A76D7B-84B9-4F9E-A2FF-5DDF0DB197FD}|DATOS\\DATOS.csproj|solutionrelative:datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "DATOS\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Context\\DataContext.cs",
+              "RelativeToolTip": "DATOS\\Context\\DataContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwB8AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:36:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Repositorios\\Repository.cs",
+              "RelativeDocumentMoniker": "DATOS\\Repositorios\\Repository.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Repositorios\\Repository.cs",
+              "RelativeToolTip": "DATOS\\Repositorios\\Repository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:35:14.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Repositorios\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "DATOS\\Repositorios\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Repositorios\\ProductoRepository.cs",
+              "RelativeToolTip": "DATOS\\Repositorios\\ProductoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:45:39.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoLogic.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\LOGICA\\Implementions\\ProductoLogic.cs",
+              "RelativeDocumentMoniker": "LOGICA\\Implementions\\ProductoLogic.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\LOGICA\\Implementions\\ProductoLogic.cs",
+              "RelativeToolTip": "LOGICA\\Implementions\\ProductoLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:22:56.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\Parcial 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\Parcial 3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial 3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:30:45.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\Parcial 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\Parcial 3\\Form1.cs",
+              "RelativeToolTip": "Parcial 3\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:10:34.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductoLogic.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\LOGICA\\Contracts\\IProductoLogic.cs",
+              "RelativeDocumentMoniker": "LOGICA\\Contracts\\IProductoLogic.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\LOGICA\\Contracts\\IProductoLogic.cs",
+              "RelativeToolTip": "LOGICA\\Contracts\\IProductoLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:23:39.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\Producto.cs",
+              "RelativeDocumentMoniker": "ENTIDADES\\Producto.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\Producto.cs",
+              "RelativeToolTip": "ENTIDADES\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:05:00.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\Producto.cs",
+              "RelativeDocumentMoniker": "ENTIDADES\\Producto.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\Producto.cs",
+              "RelativeToolTip": "ENTIDADES\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:33:24.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "ENTIDADES\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\DetalleCompra.cs",
+              "RelativeToolTip": "ENTIDADES\\DetalleCompra.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:09:20.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\Parcial 3\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial 3\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\Parcial 3\\Program.cs",
+              "RelativeToolTip": "Parcial 3\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwC4AAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:25:41.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Repositorios\\Contracts\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "DATOS\\Repositorios\\Contracts\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Repositorios\\Contracts\\IProductoRepository.cs",
+              "RelativeToolTip": "DATOS\\Repositorios\\Contracts\\IProductoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:51:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Repositorios\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "DATOS\\Repositorios\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\Repositorios\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "DATOS\\Repositorios\\Contracts\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:35:20.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\Compra.cs",
+              "RelativeDocumentMoniker": "ENTIDADES\\Compra.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\Compra.cs",
+              "RelativeToolTip": "ENTIDADES\\Compra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:06:35.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\Entities.csproj",
+              "RelativeDocumentMoniker": "ENTIDADES\\Entities.csproj",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\ENTIDADES\\Entities.csproj",
+              "RelativeToolTip": "ENTIDADES\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T22:41:58.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DATOS",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\DATOS.csproj",
+              "RelativeDocumentMoniker": "DATOS\\DATOS.csproj",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\DATOS\\DATOS.csproj",
+              "RelativeToolTip": "DATOS\\DATOS.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T22:41:42.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LOGICA",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\LOGICA\\LOGICA.csproj",
+              "RelativeDocumentMoniker": "LOGICA\\LOGICA.csproj",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\GitHub\\Programacion-1-condori\\Parcial 3\\LOGICA\\LOGICA.csproj",
+              "RelativeToolTip": "LOGICA\\LOGICA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T22:35:05.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

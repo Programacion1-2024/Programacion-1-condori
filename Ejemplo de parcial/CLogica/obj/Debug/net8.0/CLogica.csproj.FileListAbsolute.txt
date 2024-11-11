@@ -1,0 +1,58 @@
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Desktop\Terciario\Proyecto\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.sourcelink.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.deps.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CDatos.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CEntidades.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CDatos.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.AssemblyReference.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.Up2Date
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\refint\CLogica.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\ref\CLogica.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.deps.json
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CDatos.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.sourcelink.json
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.Up2Date
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\refint\CLogica.dll
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-I-BergonziJuan\Ej.Parcial\CLogica\obj\Debug\net8.0\ref\CLogica.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.deps.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\bin\Debug\net8.0\CLogica.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\bin\Debug\net8.0\CDatos.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\bin\Debug\net8.0\CEntidades.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\bin\Debug\net8.0\CDatos.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.sourcelink.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.csproj.Up2Date
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\refint\CLogica.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\CLogica.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Ej.Parcial\CLogica\obj\Debug\net8.0\ref\CLogica.dll

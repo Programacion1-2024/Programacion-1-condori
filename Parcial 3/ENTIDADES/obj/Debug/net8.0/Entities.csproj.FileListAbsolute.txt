@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\bin\Debug\net8.0\Entities.deps.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\bin\Debug\net8.0\Entities.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\bin\Debug\net8.0\Entities.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\Entities.sourcelink.json
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\Entities.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\Entities.pdb
+C:\Users\usuario\Documents\GitHub\Programacion-1-condori\Parcial 3\ENTIDADES\obj\Debug\net8.0\ref\Entities.dll
